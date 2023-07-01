@@ -155,6 +155,19 @@
         </dependency>
         <dependency>
             <groupId>com.dlink</groupId>
+            <artifactId>dlink-client-1.15</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.dlink</groupId>
+            <artifactId>dlink-flink-1.15</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.dlink</groupId>
+            <artifactId>dlink-metadata-mysql</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.dlink</groupId>
             <artifactId>dlink-metadata-base</artifactId>
         </dependency>
         <dependency>
@@ -203,6 +216,7 @@
             <groupId>com.dlink</groupId>
             <artifactId>dlink-scheduler</artifactId>
         </dependency>
+
         <dependency>
             <groupId>com.dlink</groupId>
             <artifactId>dlink-process</artifactId>
